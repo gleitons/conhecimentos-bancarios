@@ -1,0 +1,32 @@
+[
+    {   "titulo": "Conhecimentos Bancários",
+        "questao": "A acirrada concorrência impõe às instituições financeiras uma atuação agressiva, pois há uma forte disputa por ganhos de fatias de mercado. Diante desse contexto, o Banco do Brasil realizou uma pesquisa com seus clientes, e fixou seus preços com referência ao que os clientes estão dispostos a pagar pelo valor que acreditam que receberão.<br> Portanto, nesse caso, o Banco do Brasil adotou uma estratégia de precificação com base no(a)",
+        "a": "excedente do consumidor",
+        "b": "concorrência",
+        "c": "isca",
+        "d": "custo",
+        "e": "valor",
+        "razao": "e",
+        "resposta": "Prezados, a precificação baseada em valor é um método de precificação que considera o valor que um produto ou serviço entrega aos clientes. A partir desta interpretação, entende-se que o que estiver sendo comercializado será para o cliente uma solução para algum problema. Dessa forma, quanto maior for a compreensão pelo cliente dos benefícios que o produto ou serviço oferecem, maior será a sua disposição em pagar."
+    },
+    {   "titulo": "Conhecimentos Bancários",
+        "questao": "No Brasil, uma característica do modelo de negócios dos bancos na era digital é a",
+        "a": "maior proximidade física com os clientes nas agências bancárias.",
+        "b": "dispensa de regulação por parte do Banco Central do Brasil.",
+        "c": "disseminação das plataformas on-line.",
+        "d": "lentidão dos canais de comunicação.",
+        "e": "menor oferta de produtos e serviços aos clientes.",
+        "razao": "c",
+        "resposta": "Prezados, na quarta onda de mudanças tecnológicas, a indústria financeira ganha papel de protagonista na vanguarda dessa revolução. Tradicionalmente, é considerada heavy user de tecnologia da informação e é uma das primeiras a sentir a necessidade de redesenhar seu modelo de trabalho para dar ênfase à individualização de serviços e construir um novo ecossistema de digitalização. No Brasil, o setor é conhecido por ser um celeiro de inovações, servindo, muitas vezes, de exemplo para os mercados de outros países, no desenvolvimento de soluções digitais. As empresas financeiras se deparam ainda com o comportamento da geração Y, que espera um relacionamento diferenciado com os bancos, via canais de atendimento digitais (e-mail, WhatsApp e videoconferência). Os integrantes desta nova geração querem produtos com alto valor agregado, e passam longe das agências físicas. Querem ainda conectar-se a todos os produtos e serviços oferecidos pelo banco em em qualquer plataforma por meio de um acesso unificado, o que só reforça o chamado omni channel - com integração de todos os canais e atendimento contínuo, permitindo que uma transação iniciada em um canal possa ser continuada em outros."
+    },
+    {   "titulo": "Conhecimentos Bancários",
+        "questao": "Quando um indivíduo, ao comprar um produto em uma loja, efetua o pagamento utilizando papel-moeda (cash), a moeda estará cumprindo, nessa operação, a função de",
+        "a": "meio de troca",
+        "b": "unidade de medida de valor",
+        "c": "reserva de valor",
+        "d": "Financiamento",
+        "e": "precaução",
+        "razao": "a",
+        "resposta": "Prezados, a moeda, independentemente da sua forma, tem três funções distintas. É um meio de troca, ou seja, uma forma de pagamento com um valor em que todos confiam. É também uma unidade de conta, que permite atribuir um preço a bens e serviços. E constitui ainda uma reserva de valor. Só uma parte das notas e moedas de euro está efetivamente em circulação, ou seja, é utilizada para efetuar pagamentos."
+    }
+]

@@ -1,0 +1,105 @@
+* {
+  border: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.paginas {
+  width: 90%;
+  margin: auto;
+  border: black solid 1px;
+  font-size: 14px;
+}
+
+.paginas > div {
+  width: 540px;
+  height: 675px;
+  margin: 10px auto;
+  border: black solid 1px;
+  overflow: hidden;
+}
+
+.perguntaPrimeira {
+  padding: 10px;
+  margin: 10px;
+  background: rgba(255, 255, 255, 0.523);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  font-weight: 600;
+}
+
+.perguntaPrimeira h2 {
+  text-align: center;
+  margin: -5px;
+}
+
+.respostasPrimeira {
+  width: 97%;
+  margin: auto;
+}
+
+.respostasPrimeira > div {
+  display: flex;
+  justify-content: initial;
+  gap: 10px;
+  margin: 10px 10px;
+  border-radius: 15px;
+
+  align-items: center;
+  background: rgba(255, 255, 255, 0.52);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.respostasPrimeira > div > p {
+  margin-left: 50px;
+}
+
+.respostasPrimeira > div .opcaoPrimeira {
+  position: absolute;
+  height: 40px;
+  width: 40px;
+  box-shadow: inset black 0px 2px 2px 0px;
+  background-color: rgb(175, 175, 175);
+  margin: 2px;
+  border-radius: 15px;
+}
+
+.respostasPrimeira > div .opcaoPrimeira p {
+  position: absolute;
+  left: 12px;
+  top: -15px;
+  color: rgb(89, 89, 89);
+  font-size: 1.5em;
+}
+.respostasPrimeira > div .pCorreta {
+  box-shadow: black 0px 2px 2px 0px;
+  background-color: rgb(62, 184, 43);
+  color: rgb(255, 255, 255);
+}
+.respostasPrimeira img {
+  width: 100%;
+}
+.infoPrimeira {
+  width: 100%;
+  background: linear-gradient(to left, rgb(0, 149, 255), rgb(122, 233, 70));
+  text-align: center;
+  height: 50px;
+  margin-top: -14px;
+  font-size: 14px;
+  color: white;
+}
+.footerPrimeira {
+  color: white;
+  font-weight: 600;
+  text-align: center;
+  background-color: green;
+}
